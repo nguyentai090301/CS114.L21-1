@@ -1,17 +1,26 @@
-# Bảng mục lục
-* [Giới thiệu](#giới-thiệu)
-* [Giảng viên](#giảng-viên)
-* [Thành viên](#thành-viên)
-* [Thành viên nhóm](#thành-viên-nhóm)
+# CS114.L21
+# CS114.L21
+## BẢNG MỤC LỤC
+* [ Giới thiệu môn học](#gioithieumonhoc)
+* [ Giảng viên hướng dẫn](#giangvien)
+* [ Thành viên nhóm](#thanhvien)
+## GIỚI THIỆU MÔN HỌC
+<a name="gioithieumonhoc"></a>
+* **Tên môn học**: Máy học - MACHINE LEARNING
+* **Mã môn học**: CS114
+* **Lớp học**: CS114.L21
+* **Ngày bắt đầu**: 01/03/2021
+* **Năm học**: 2020-2021
 
-## Giới thiệu
-* Tên môn học: MÁY HỌC - MACHINE LEARNING
-* Mã lớp: CS114.L21
-* Năm học: HK2 (2020-2021)
-### Giảng viên
-* PGS.TS. Lê Đình Duy - duyld@uit.edu.vn
-* ThS. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
-#### Thành viên
-* - 1 - Hoàng Xuân Vũ     - 19522531 - 19522531@gm.uit.edu.vn - [19522531](https://github.com/19522531) -
-* - 2 - Nguyễn Văn Tài    - 19521216 - 19521216@gm.uit.edu.vn - [tranhuynhkyanh](https://github.com/tranhuynhkyanh) -
-* - 3 - Nguyễn Văn Hoàng  - 19522531 - 19522531@gm.uit.edu.vn - [Nguyendathuyhoang](https://github.com/nguyendathuyhoang) - 
+## GIẢNG VIÊN HƯỚNG DẪN
+<a name="giangvien"></a>
+* PGS.TS. **Lê Đình Duy** - *duydl@uit.edu.vn*
+* ThS. **Phạm Nguyễn Trường An** *truonganpn@uit.edu.vn*
+
+## THÀNH VIÊN NHÓM
+<a name="thanhvien"></a>
+| STT    | MSSV          | Họ và Tên              | Github                                                  | Email                   |
+| ------ |:-------------:| ----------------------:|--------------------------------------------------------:|-------------------------:
+| 1      | 19522531      | Hoàng Xuân Vũ          |[19522531](https://github.com/19522531)                  |19522531@gm.uit.edu.vn   |
+| 2      | 19521536      | Nguyễn Đạt Huy Hoàng   |[nguyendathuyhoang](https://github.com/nguyendathuyhoang)|19521536@gm.uit.edu.vn   |
+| 3      | 19521234      | Nguyễn Văn Tài         |[19521234](https://github.com/19521234)                  |19521234@gm.uit.edu.vn   |
