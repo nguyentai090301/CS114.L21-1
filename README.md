@@ -1,5 +1,4 @@
 # CS114.L21
-# CS114.L21
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
 * [ Giảng viên hướng dẫn](#giangvien)
