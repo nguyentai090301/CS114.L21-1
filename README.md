@@ -6,8 +6,8 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS112.L21 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
-<h1 align="center"><b>ALGORITHM ANALYSIS AND DESIGN</b></h1>
+<h1 align="center"><b>CS114.L21 - MÁY HỌC</b></h1>
+<h1 align="center"><b>MACHINE LEARNING</b></h1>
 
 
 ## BẢNG MỤC LỤC
