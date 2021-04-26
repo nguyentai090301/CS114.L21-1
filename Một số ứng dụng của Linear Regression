@@ -1,0 +1,17 @@
+*MỘT SỐ BÀI TOÁN ỨNG DỤNG THUẬT TOÁN LINEAR REGRESSION
+- Bài 1: Dự đoán thu nhập của người lao động
+  - Input: Nghề nghiệp của người lao động( Kiểu dữ liệu số nguyên: Ví dụ nghề A tương ứng với 1, Nghề B tương ứng với 2,...)
+           Độ tuổi của người lao động
+  - Output: Thu nhập được dự đoán.
+  
+- Bài 2: Dự đoán huyết áp
+  - Input: Liều lượng thuốc sử dụng và danh sách huyết áp tương ứng để train. Danh sách liều lượng thuốc sử dụng để dự đoán huyết áp
+  - Output: Huyết áp được dự đoán
+
+- Bài 3: Dự đoán giá của xe hơi
+  - Input: Tuổi đời của xe cần dự đoán
+  - Output: Giá xe được dự đoán
+  
+- Bài 4: Dự đoán năng suất vụ mùa
+  - Input: Lượng phân bón, lượng nước tưới cho cây
+  - Output: Năng suất vụ mùa dự đoán
