@@ -10,7 +10,7 @@
 <h1 align="center"><b>BÀI TẬP QUÁ TRÌNH NGÀY 26/04/2021</b></h1>
 
 ## ĐỀ BÀI:
-- Tìm các ví dụ về bài toán regresstion ***TRONG THỰC TẾ***
+- Tìm các ví dụ về bài toán regression ***TRONG THỰC TẾ***
 - Ghi rõ input, output và cách thu thập + xử lý data
 
 ## NHÓM THỰC HIỆN:
