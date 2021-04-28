@@ -1,17 +1,18 @@
-*MỘT SỐ BÀI TOÁN ỨNG DỤNG THUẬT TOÁN LINEAR REGRESSION
 - Bài 1: Dự đoán thu nhập của người lao động
-  - Input: Nghề nghiệp của người lao động( Kiểu dữ liệu số nguyên: Ví dụ nghề A tương ứng với 1, Nghề B tương ứng với 2,...)
-           Độ tuổi của người lao động
-  - Output: Thu nhập được dự đoán.
-  
-- Bài 2: Dự đoán huyết áp
-  - Input: Liều lượng thuốc sử dụng và danh sách huyết áp tương ứng để train. Danh sách liều lượng thuốc sử dụng để dự đoán huyết áp
-  - Output: Huyết áp được dự đoán
+- Input: Nghề nghiệp (1: Kỹ sư, 2: Giáo viên, 3: Bác sĩ, ...) và độ tuổi
+- Output: Thu nhập lao động
+- Thu thập dữ liệu: Tạo form khảo sát trên các trang cá nhân hoặc các diễn đàn
+- Xử lý thông tin: Chuyển file excel sang file .csv
 
-- Bài 3: Dự đoán giá của xe hơi
-  - Input: Tuổi đời của xe cần dự đoán
-  - Output: Giá xe được dự đoán
-  
-- Bài 4: Dự đoán năng suất vụ mùa
-  - Input: Lượng phân bón, lượng nước tưới cho cây
-  - Output: Năng suất vụ mùa dự đoán
+- Bài 2: Dự đoán huyết áp
+- Input: Liều lượng thuốc sử dụng
+- Ouput: Chỉ số huyết áp
+- Thu thập dữ liệu: Thông tin bệnh án của bệnh nhân từ các bệnh viện
+- Xử lý data: File thông tin bệnh nhân sẽ là các file excel, vì ta chỉ quan tâm tới huyết áp của bệnh nhân thông qua liều lượng thuốc sử dụng nên sẽ chỉ lấy hai cột là chỉ số huyết áp và liều lượng thuốc dùng. Chuyển file sang file .csv 
+
+- Bài 3: Dự đoán năng suất vụ mùa
+- Input: Lượng phân bón, lượng nước tưới cho cây
+- Ouput: Năng suất vụ mùa (số lượng)
+- Thu thập dữ liệu: Thông tin sản lượng cây trồng với mức độ chăm sóc từ các nông trại
+- Xử lý data: Các thông tin sẽ được thống kê trên excel nên ta cũng sẽ lấy các cột lượng nước, lượng phân bón và năng suất trong file excel sau đó chuyển sang file .csv
+
